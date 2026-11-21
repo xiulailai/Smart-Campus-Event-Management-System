@@ -1,0 +1,10 @@
+Event1|Venue1|2025-07-10|9:00|venue_manager_approved|2025-06-09 10:16:16|eventorganizer1@campus.edu|EV001|Tech Workshop - Introduction to Web Development|98|eventorganizer1
+Event2|Venue2|2025-07-11|10:00|pending|2025-06-09 03:22:17|eventorganizer2@campus.edu|EV002|Student Leadership Summit|84|eventorganizer2
+Event3|Venue3|2025-07-12|11:00|rejected_by_admin|2025-06-09 04:18:56|eventorganizer3@campus.edu|EV003|Career Fair Networking Session|31|eventorganizer3
+Event4|Venue4|2025-07-13|12:00|rejected_by_venue_manager|2025-06-09 05:41:23|eventorganizer4@campus.edu|EV004|Innovation Challenge Presentation|45|eventorganizer4
+Event5|Venue5|2025-07-14|13:00|admin_approved|2025-06-11 19:31:18|eventorganizer5@campus.edu|EV005|Cultural Diversity Celebration|127|eventorganizer5
+Event6|Venue6|2025-07-15|14:00|admin_approved|2025-06-09 07:25:44|eventorganizer1@campus.edu|EV006|Environmental Awareness Seminar|62|eventorganizer1
+Event7|Venue7|2025-07-16|15:00|venue_manager_approved|2025-06-09 08:17:31|eventorganizer2@campus.edu|EV007|Digital Marketing Masterclass|139|eventorganizer2
+Event8|Venue8|2025-07-17|16:00|venue_manager_approved|2025-06-09 09:48:18|eventorganizer3@campus.edu|EV008|Entrepreneurship Panel Discussion|76|eventorganizer3
+Event9|Venue9|2025-07-18|17:00|fully_approved|2025-06-09 10:52:05|eventorganizer4@campus.edu|EV009|Annual Research Symposium|154|eventorganizer4
+Event10|Venue10|2025-07-19|10:00|fully_approved|2025-06-09 11:39:27|eventorganizer5@campus.edu|EV010|Alumni Networking Breakfast|83|eventorganizer5

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+# Files the app generates when you use the Admin / Venue Manager reports
+report.txt
+booking_report_*.txt
