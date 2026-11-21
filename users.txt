@@ -1,0 +1,20 @@
+participant1|participant1@campus.edu|a03c32fcd351cba2d9738622b083bed022ef07793bd92b59faea0207653f371d|Student|Participant|2025-06-09 01:13:39
+participant2|participant2@campus.edu|a03c32fcd351cba2d9738622b083bed022ef07793bd92b59faea0207653f371d|Student|Participant|2025-06-09 01:13:39
+participant3|participant3@campus.edu|a03c32fcd351cba2d9738622b083bed022ef07793bd92b59faea0207653f371d|Student|Participant|2025-06-09 01:13:39
+participant4|participant4@campus.edu|a03c32fcd351cba2d9738622b083bed022ef07793bd92b59faea0207653f371d|Student|Participant|2025-06-09 01:13:39
+participant5|participant5@campus.edu|a03c32fcd351cba2d9738622b083bed022ef07793bd92b59faea0207653f371d|Student|Participant|2025-06-09 01:13:39
+eventorganizer1|eventorganizer1@campus.edu|a03c32fcd351cba2d9738622b083bed022ef07793bd92b59faea0207653f371d|Student|Event Organizer|2025-06-09 01:13:39
+eventorganizer2|eventorganizer2@campus.edu|a03c32fcd351cba2d9738622b083bed022ef07793bd92b59faea0207653f371d|Student|Event Organizer|2025-06-09 01:13:39
+eventorganizer3|eventorganizer3@campus.edu|a03c32fcd351cba2d9738622b083bed022ef07793bd92b59faea0207653f371d|Student|Event Organizer|2025-06-09 01:13:39
+eventorganizer4|eventorganizer4@campus.edu|a03c32fcd351cba2d9738622b083bed022ef07793bd92b59faea0207653f371d|Student|Event Organizer|2025-06-09 01:13:39
+eventorganizer5|eventorganizer5@campus.edu|a03c32fcd351cba2d9738622b083bed022ef07793bd92b59faea0207653f371d|Student|Event Organizer|2025-06-09 01:13:39
+venuemanager1|venuemanager1@campus.edu|a03c32fcd351cba2d9738622b083bed022ef07793bd92b59faea0207653f371d|Lecturer|Venue Manager|2025-06-09 01:13:39
+venuemanager2|venuemanager2@campus.edu|a03c32fcd351cba2d9738622b083bed022ef07793bd92b59faea0207653f371d|Lecturer|Venue Manager|2025-06-09 01:13:39
+venuemanager3|venuemanager3@campus.edu|a03c32fcd351cba2d9738622b083bed022ef07793bd92b59faea0207653f371d|Lecturer|Venue Manager|2025-06-09 01:13:39
+venuemanager4|venuemanager4@campus.edu|a03c32fcd351cba2d9738622b083bed022ef07793bd92b59faea0207653f371d|Lecturer|Venue Manager|2025-06-09 01:13:39
+venuemanager5|venuemanager5@campus.edu|a03c32fcd351cba2d9738622b083bed022ef07793bd92b59faea0207653f371d|Lecturer|Venue Manager|2025-06-09 01:13:39
+administrator1|administrator1@campus.edu|a03c32fcd351cba2d9738622b083bed022ef07793bd92b59faea0207653f371d|Lecturer|Administrator|2025-06-09 01:13:39
+administrator2|administrator2@campus.edu|a03c32fcd351cba2d9738622b083bed022ef07793bd92b59faea0207653f371d|Lecturer|Administrator|2025-06-09 01:13:39
+administrator3|administrator3@campus.edu|a03c32fcd351cba2d9738622b083bed022ef07793bd92b59faea0207653f371d|Lecturer|Administrator|2025-06-09 01:13:39
+administrator4|administrator4@campus.edu|a03c32fcd351cba2d9738622b083bed022ef07793bd92b59faea0207653f371d|Lecturer|Administrator|2025-06-09 01:13:39
+administrator5|administrator5@campus.edu|a03c32fcd351cba2d9738622b083bed022ef07793bd92b59faea0207653f371d|Lecturer|Administrator|2025-06-09 01:13:39
